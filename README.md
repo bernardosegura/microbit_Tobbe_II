@@ -7,3 +7,11 @@
 > Este juguete educativo ha sido pensado para inspirar a futuros aprendices y amantes de la ingeniería mecánica y/o programación.
 
 > IMagen
+> Imagen
+
+# evaTb006
+Es un pequeño programa el cual le permite a tobbie tener un aspecto electrónico más amigable con sus leds y es capaz de convertir su cara en reloj binario, ideal para experimentar, cuenta con la habilidad de caminar enviando comando por bluetooth, puedes modificar y revisar el código en la plataforla de [Microsoft para la micro:bit](https://makecode.microbit.org/)
+
+>Imagen 
+
+>Imagen
